@@ -288,7 +288,7 @@ features.
 
 >>> GBXMINER RELEASE HISTORY <<<
 
-  Apr. 7th 2026   v1.0.0
+  Apr. 7th 2026   v1.0.1
                   Rebranded from ccminer to GBXminer
                   CUDA 12 compatibility (texture objects, OpenSSL EVP API)
                   Support for all nVidia GPUs (GTX 900 to RTX 5090)
